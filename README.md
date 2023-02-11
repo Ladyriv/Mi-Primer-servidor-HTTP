@@ -35,3 +35,8 @@ The clone and deploy this project
   npm run dev
 
 ```
+```bash
+
+  Run in the browser http//localhost:3000
+
+```
